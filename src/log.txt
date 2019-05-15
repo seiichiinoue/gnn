@@ -98,3 +98,5 @@ epoch: 97 running_loss: 873.4035765564
 epoch: 98 running_loss: 874.9044146636 
 epoch: 99 running_loss: 872.9783579068 
 epoch: 100 running_loss: 876.2009682057 
+epoch: 1 running_loss: 1354.3236235813 
+epoch: 2 running_loss: 1327.6455400271 
