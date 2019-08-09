@@ -6,12 +6,13 @@
 
 ## Usage
 
-- prepare inputs data. (data format must be same as inouts/train)
+- prepare inputs data. (data format must be same as data located at `inputs/train`)
 - then, train
 
 ```
 $ cd src/
 $ python3 main.py
 ```
+
 
 
